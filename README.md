@@ -69,7 +69,7 @@ urban-heat-island-kolkata/
 ├── uhi_kolkata_analysis.ipynb
 ├── README.md
 ├── data/
-│   └── kolkata_boundary.zip
+│   └── gadm41_IND_shp.zip
 └── outputs/
     ├── ndvi_map.png
     ├── ndbi_map.png
