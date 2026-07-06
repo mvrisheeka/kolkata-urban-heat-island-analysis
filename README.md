@@ -1,4 +1,4 @@
-# Urban Heat Island Analysis — Kolkata
+# Urban Heat Island Analysis using Land Surface Temperature and Built-up Density 
 
 Maps Urban Heat Island (UHI) zones in Kolkata District, West Bengal, India using Landsat-8 satellite data. Derives Land Surface Temperature (LST), vegetation cover (NDVI), and built-up density (NDBI), then analyzes how urbanization drives surface heating.
 
